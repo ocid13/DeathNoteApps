@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Aclonica&display=swap');
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: solid 2px var(--primary);
+  padding: 1rem 2rem;
+}
+
+.heading {
+  font-weight: 900;
+  font-size: 1.7rem;
+  font-family: 'Aclonica', sans-serif;
+}
